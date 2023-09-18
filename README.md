@@ -6,5 +6,5 @@
 
 2. [Task 2 - **Summary Statistics** ](https://github.com/Azeen3003/TH-ET-Internship-Tasks/tree/main/Task%202)- For this task, I had to download the iconic Titanic dataset from Kaggle and calculate it's summary statistics. I first did the basic operations like loading the csv file into a dataframe and using the `dtypes` and `nunique()` method to get an idea about the datatypes and the unique values in the columns. Then, I divided my task into two parts. First was to calculate the summary statistics of the numeric columns using the default `describe()` method. But this method didn't calculate the mode. So I used `mode(numeric_only=True).iloc[0]` to calculate the mode of the dataset. In the second part of my task, I decided to calculate the summary statistics of the non-numeric columns using `describe(include=['O'])`. Thus, I completed my second task of this Data Analytics internship.
 
-3. [Task 3 - **Removing Duplicates**(https://github.com/Azeen3003/TH-ET-Internship-Tasks/tree/main/Task%203).- 
+3. [Task 3 - **Removing Duplicates**](https://github.com/Azeen3003/TH-ET-Internship-Tasks/tree/main/Task%203).- 
    
